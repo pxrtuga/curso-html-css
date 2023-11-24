@@ -1,0 +1,26 @@
+section{
+  background-color: #5d5f5e;
+  width: 627px;
+  height: 184px;
+  flex-shrink: 0 ;
+  box-shadow:5px 5px 0px #000;
+}
+h1 {
+  color: #132b71;
+  font: normal 31px 'Press Start 2P';
+  font-weight: 400;
+  line-height: normal ;
+  text-shadow: 4px 4px 0px #000;
+  padding:42px 57px 20px 60px;
+}
+
+h2{
+  color: #fff;
+  font: normal 28px 'Press Start 2P';
+  font-weight: 400;
+  line-height: normal ;
+  text-shadow: 4px 4px 0px #000;
+  padding: 20px 47px 44px 40px
+  
+}
+  

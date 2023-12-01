@@ -3,3 +3,8 @@
   font: normal 29px 'Press Start 2P';
   text-shadow: 4px 4px 0px #000;
 }
+
+.title.-second{
+  color: #fff;
+  text-shadow: none;
+}

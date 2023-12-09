@@ -9,3 +9,8 @@
   .section .main-title {
     margin-bottom: 60px;
   }
+
+  .section.-projects {
+    background-color: black;
+    border-bottom: 10px solid #132b71;
+  }

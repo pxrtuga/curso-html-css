@@ -14,3 +14,8 @@
     background-color: black;
     border-bottom: 10px solid #132b71;
   }
+
+  .main-section.-sobre {
+    background-color: #5d5f5e;
+    border-bottom:10px solid black
+  }

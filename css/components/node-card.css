@@ -12,7 +12,7 @@ position: relative;
   box-sizing: border-box;
   height: 0px;
   width: 40px;
-  border-top: 3px dashed black;
+  border-top: 4px dashed black;
   transform: rotate(90deg) translateX(-62%);
   bottom: 140px;
 }

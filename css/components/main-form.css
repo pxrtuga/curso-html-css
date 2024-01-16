@@ -1,0 +1,11 @@
+.main-form {
+  background-color: #132b71;
+  padding: 50px 40px;
+}
+.main-form .main-input{
+  margin-bottom: 20px;
+}
+
+.main-input .main-form.-textarea{
+  margin-bottom: 40px;
+}

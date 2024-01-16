@@ -12,3 +12,9 @@
 .main-button:hover{
   transform: scale(1.07);
 }
+
+.main-button.-second {
+  width: 1800px;
+  height: 60px;
+  background-color: #5d5f5e;
+}

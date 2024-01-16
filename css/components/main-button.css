@@ -8,6 +8,7 @@
   font-size: 20px;
   color: #fff;
   text-decoration: none;
+  cursor: pointer;
 }
 .main-button:hover{
   transform: scale(1.07);
@@ -17,4 +18,7 @@
   width: 100%;
   height: 60px;
   background-color: #5d5f5e;
+}
+.main-button.-second:hover {
+  transform: scale(1.02);
 }

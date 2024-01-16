@@ -2,6 +2,12 @@
   background-color: #132b71;
   padding: 50px 40px;
 }
+
+.main-form .main-title {
+  margin-bottom: 40px;
+  text-align: center;
+}
+
 .main-form .main-input{
   margin-bottom: 20px;
 }

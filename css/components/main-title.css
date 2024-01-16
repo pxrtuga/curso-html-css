@@ -10,12 +10,3 @@
   color: #fff;
   text-shadow: none;
 }
-
-.title.-second {
-  font: normal 30px 'Fira Code';
-  color: #fff;
-  font-weight: 300;
-  line-height: normal;
-  display: flex;
-  justify-content: left;
-}

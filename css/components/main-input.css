@@ -4,14 +4,14 @@
   align-items: center;
 }
 
-.main-input .nome{
+.main-input #nome{
   width: 1800px;
   height: 50px;
   border: 5px solid black;
   margin-bottom: 60px;
 }
 
-.main-input .email {
+.main-input #email {
   width: 1800px;
   height: 50px;
   border: 5px solid black;
@@ -19,7 +19,7 @@
   
 }
 
-.main-input .mensagem {
+.main-input #mensagem {
   width: 1800px;
   height: 320px;
   border: 5px solid black;

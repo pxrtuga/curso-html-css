@@ -27,6 +27,7 @@
   <link rel="stylesheet" href="css/components/main-carousel.css">
   <link rel="stylesheet" href="css/components/main-input.css">
   <link rel="stylesheet" href="css/components/main-footer.css">
+  <link rel="stylesheet" href="css/components/main-label.css">
  
 </head>
 <body>
@@ -220,22 +221,22 @@
 
 </section>
 
-<section class="main-section">
+<form class="main-section">
   <h2 class="main-title -second">contatos</h2>
 
   <div class="main-input">
-    <h3 class="title -second">Nome</h3>
-    <input type="text" class="nome">
+    <label class="main-label" for="name">Nome</label>
+    <input type="text" id="nome">
     
-    <h3 class="title -second">Email</h3>
-    <input type="text" class="email">
+    <label class="main-label" for="email">Email</label>
+    <input type="email" id="email">
 
-    <h3 class="title -second">Mensagem</h3>
-    <input type="text" class="mensagem">
+    <label class="main-label" for="mensagem">Mensagem</label>
+    <textarea id="mensagem" ></textarea>
     
-    <input type="button" value="Enviar" class="main-button -second">
+    <input type="submit" value="Enviar" class="main-button -second">
   </div>
-</section>
+</form>
 
 <footer class="main-footer">
   <a class="action" href="http://twitter.com/Pxrtuga" target="_blank">
